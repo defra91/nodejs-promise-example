@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-promise-example",
+  "version": "1.0.0",
+  "description": "Nodejs example project to give an overview of Promise usage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defra91/nodejs-promise-example.git"
+  },
+  "keywords": [
+    "Promise",
+    "nodejs"
+  ],
+  "author": "Luca De Franceschi <luca.defranceschi.91@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/defra91/nodejs-promise-example/issues"
+  },
+  "homepage": "https://github.com/defra91/nodejs-promise-example#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
